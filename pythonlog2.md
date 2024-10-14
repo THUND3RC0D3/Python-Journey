@@ -2,11 +2,11 @@
 
 > #### My second task was to make a variable that stores addition and on that stores multiplication. Next, they wanted me to print them. This task was easy enough that I got it on my first try.
 
-### The task information:
+### The task objective:
 
 ![Screenshot 2024-10-14 110148](https://github.com/user-attachments/assets/21f27aa6-adde-4fab-ae77-dd84c11e6451)
 
-### My inputted code:
+### My code:
 
 ![Screenshot 2024-10-14 110421](https://github.com/user-attachments/assets/b9052b88-dafd-436c-bf2b-28c6a9e82e43)
 
