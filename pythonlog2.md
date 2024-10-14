@@ -2,7 +2,7 @@
 
 > #### My second task was to make a variable that stores addition and on that stores multiplication. Next, they wanted me to print them. This task was easy enough that I got it on my first try.
 
-### The tTask Objective:
+### The Task Objective:
 
 ![Screenshot 2024-10-14 110148](https://github.com/user-attachments/assets/21f27aa6-adde-4fab-ae77-dd84c11e6451)
 
