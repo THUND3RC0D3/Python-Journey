@@ -1,0 +1,11 @@
+# variables
+a = 2
+b = 5
+
+# prints variables
+print(a)
+print(b)
+
+Console Output:
+a
+b
