@@ -1,0 +1,15 @@
+# variables that store numbers
+a = 2
+b = 5
+
+# variables that stores multiplication and addition
+add = a + b
+multi = a * b
+
+# prints the answer to the variablse, add, and multi
+print(add)
+print(multi)
+
+Console Output:
+7
+10
