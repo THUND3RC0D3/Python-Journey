@@ -1,5 +1,5 @@
 # My Python Journey
 
-Welcome to the journey of mine. This journey includes quests, and these quest I'm going to share with you, whoever is seeing this.
+Welcome to the repository where I post my journey of learning the coding language, Python.
 
 > Where I'm learning: https://py.checkio.org/
