@@ -2,11 +2,11 @@
 a = 2
 b = 5
 
-# variables that stores multiplication and addition
+# variables that store multiplication and addition
 add = a + b
 multi = a * b
 
-# prints the answer to the variablse, add, and multi
+# prints the answer to the variables, add, and multi
 print(add)
 print(multi)
 
