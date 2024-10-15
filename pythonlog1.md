@@ -1,6 +1,6 @@
-# Python Log 1
+# Python Post 1
 
-> #### This task seemed simple and easy, the reason why was because Python seemed similar to Lua, and I consider myself an advanced Lua Programmer.
+> #### Welcome to my first Python Post. This task seemed simple and easy because Python seemed similar to Lua, and I consider myself an advanced Lua Programmer.
 
 ### The Objective of my Task:
 
