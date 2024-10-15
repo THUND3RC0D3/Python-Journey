@@ -1,4 +1,4 @@
-# Python Log 2
+# Python Post 2
 
 > #### My second task was to make a variable that stores addition and on that stores multiplication. Next, they wanted me to print them. This task was easy enough that I got it on my first try.
 
