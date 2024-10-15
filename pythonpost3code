@@ -1,0 +1,53 @@
+# Arithmetic Operators
+a = 256
+b = 512
+
+arithSet = 0 #1 = true, 0 = false
+
+if arithSet == 1:
+    print("arithSet is set to True")
+    print("Addition")
+    print(a + b)
+    print("Subtraction")
+    print(a - b)
+    print("Multiplication")
+    print(a * b)
+    print("Division")
+    print(a / b)
+    print("Remainder")
+    print(a % b)
+else:
+    print("arithSet is set to False")
+
+# Strings
+
+wordString = "Python"
+sentString = "Coding in Python is fun!"
+loopString = "Do-Re-Mi-Fa-Sol-La-Ti-"
+
+stringSet = 0 #1 = true, 0 = false
+
+if stringSet == 1:
+    print("stringSet is set to True")
+    print(loopString * 2 + "Do")
+    print(sentString)
+    print(wordString)
+    print(sentString[0:6])
+else:
+    print("stringSet is set to False")
+
+# Placeholders ins Strings
+
+placeSet = 1 #1 = true, 0 = false
+
+sentence = "%s is my favorite coding language, and %d and %d are my favorite numbers"
+verb1, verb2, verb3, verb4 = "soars", "glides", "drives", "flies"
+lang1, lang2, lang3, lang4 = "Python", "Lua", "JavaScript", "C++"
+
+if placeSet == 1:
+    print("placeSet is set to True")
+    print(sentence % ("Python", 512, 1024))
+    print(f"A car {verb4} through the sky!")
+    print(f"{lang1} is a coding language!")
+else:
+    print("placeSet is set to False")
