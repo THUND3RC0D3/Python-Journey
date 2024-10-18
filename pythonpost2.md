@@ -1,6 +1,7 @@
+> Find pythoncode2 to find the code I've done
 # Python Post 2
 
-> #### My second task was to make a variable that stores addition and on that stores multiplication. Next, they wanted me to print them. This task was easy enough that I got it on my first try.
+> #### My second task was to make a variable that stores addition and on that store's multiplication. Next, they wanted me to print them. This task was easy enough that I got it on my first try.
 
 ### The Task Objective:
 
