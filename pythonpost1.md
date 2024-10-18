@@ -1,4 +1,4 @@
-> Find pythoncode1 for the code I've done.
+> [pythoncode1]https://github.com/THUND3RC0D3/Python-Journey/blob/main/pythoncode1
 # Python Post 1
 
 > #### Welcome to my first Python Post. This task seemed simple and easy because Python seemed similar to Lua, and I consider myself an advanced Lua Programmer.
