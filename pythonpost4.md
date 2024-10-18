@@ -2,4 +2,4 @@
 ## Learning Lists
  So today (10/18/24), I learned how to make lists. The recorded course was easy, and I learned how to do it quickly.
 
-Find "pythonpostcode4" in this repository to see what I've coded.
+Find "pythoncode4" in this repository to see what I've coded.
