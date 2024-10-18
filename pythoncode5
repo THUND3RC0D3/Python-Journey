@@ -1,0 +1,11 @@
+# dictionaries
+
+dictionary = {'a': 5, 'b': 10, 'c': 15, 'd': 20}
+print(dictionary['a'] + dictionary['a'])
+print(dictionary['a'] + dictionary['c'])
+print(dictionary['b'] + dictionary['d'])
+dictionary['d'] = 40
+print(dictionary['d'])
+del dictionary['d']
+print(dictionary)
+print(len(dictionary))
