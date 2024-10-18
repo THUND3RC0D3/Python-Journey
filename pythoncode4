@@ -1,0 +1,8 @@
+# Number Lists
+list_num = 2, 4, 6, 8, 10
+print(max(list_num))
+print(min(list_num))
+
+# String Lists
+game_list = ["Minecraft", "Roblox", "Call of Duty", "Fortnite"]
+print(f"Downloadable Games: {game_list[0:3]}")
