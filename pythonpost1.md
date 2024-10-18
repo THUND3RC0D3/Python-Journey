@@ -1,3 +1,4 @@
+> Find pythoncode1 for the code I've done.
 # Python Post 1
 
 > #### Welcome to my first Python Post. This task seemed simple and easy because Python seemed similar to Lua, and I consider myself an advanced Lua Programmer.
