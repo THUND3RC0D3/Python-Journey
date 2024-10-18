@@ -1,4 +1,4 @@
-> Find pythoncode2 to find the code I've done
+> [pythoncode2]https://github.com/THUND3RC0D3/Python-Journey/blob/main/pythoncode2
 # Python Post 2
 
 > #### My second task was to make a variable that stores addition and on that store's multiplication. Next, they wanted me to print them. This task was easy enough that I got it on my first try.
